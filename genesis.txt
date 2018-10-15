@@ -1,0 +1,30 @@
+Hathor's Disk - Infinite Symbol Interaction System
+Data creation over IP.
+
+Today and in the past we've been sending, receiving and storing information.
+What if I told you: "These days are counted. Something new is possible."
+
+There are infinite and ever changing constants like euler and PI.
+They are nothing else than a 'not yet rendered' static databases of number sequences that have an infinite combination field.
+
+What if we don't need to transmit information? What if we created it 'out of thin air'? Actually we create it out of a static and ever changing number sequence.
+
+Imagine a dictionary of english words. There's an index for every word at the back.
+Imagine a movie database. There's an index for every movie in that database.
+Imagine the world-wide collection of all files. Yes, there'll be an index for every possible file in the world. Public. Possibly half of it encrypted.
+
+Wow wo wo hold on Yannis! You're saying all files stored in one giant file?
+Nope. That's not what I'm really saying. What I'm really saying is that everyone will collectively build "building plans" or pointers to pointers to file parts and to pointers to decompression systems.
+Those pointers will be optimized by a first process of mining. At the beginning everyone will "mine" (see bitcoin.org) their sentences into the "Devarim".
+Next AI technology will optimize in a second process of mining the index and link it so that when you want a file it will tell you exactly which parts of PI or Euler or DNA or Bitcoin Blockchain or whatever random and huge static database of your choice will give you the plan to your file the fastest.
+Once you have your 'creation plan' of the file in question - "The Beatles - all you need is love.flac" your PIC-Express Datacard (like a GPU but it mines into Devarim and renders / creates the files out of the plans).
+Now you connect these files within a DNS System like tree. I can now open a file like I open a website. Yes, I can send you a file over a voice message.
+
+A pointersequence-layer  "Dimensions" system might sound slow because the addressspace has to become very compressed but that's where the beauty of this system lies.
+If someone in the world has built their favorite Beatles music track they can now share this creation-plan into the Devarim. Someone else can get it over IP and 'stream' it from their ASIC which renders it - offline! because it gets the decompression key to the compression master euler or PI!
+
+This leads us to a RAM-Only system with some crystals that calculate PI, some light QR-code sending cables and some ASIC datacard that hashes creation-plan-pointers or however you would like to call this into Alexandria - the public DNS of fileplans stored in Devarim.
+
+Yannis Kasimir Brand, Switzerland 2018
+
+Licensed under the MIT License.
